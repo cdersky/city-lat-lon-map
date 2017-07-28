@@ -11,6 +11,14 @@
     "latitude",
     "longitude"
   ],
+  "repository": {
+    "type": "git",
+    "url": "cdersky/city-lat-lon-map"
+  },
   "author": "cdersky@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+    "bugs": {
+    "url" : "https://github.com/cdersky/city-lat-lon-map/issues",
+    "email" : "cdersky@gmail.com"
+  }
 }
