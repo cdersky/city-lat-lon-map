@@ -20,6 +20,5 @@
     "bugs": {
     "url" : "https://github.com/cdersky/city-lat-lon-map/issues",
     "email" : "cdersky@gmail.com"
-  },
-  "private": false
+  }
 }
