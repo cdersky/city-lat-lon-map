@@ -1,0 +1,16 @@
+{
+  "name": "city-lat-long-map",
+  "version": "1.0.0",
+  "description": "map of city names to latitude and longitude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "city",
+    "latitude",
+    "longitude"
+  ],
+  "author": "cdersky@gmail.com",
+  "license": "ISC"
+}
